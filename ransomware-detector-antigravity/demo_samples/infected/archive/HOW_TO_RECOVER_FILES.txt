@@ -1,0 +1,9 @@
+ATTENTION!
+
+Your files have been encrypted and cannot be opened.
+To get the decryption key you must pay 0.5 bitcoin within 72 hours,
+otherwise the price will double and your data will be lost.
+Download Tor Browser and visit abcdefghijklmnop.onion to recover your files.
+Do not rename or modify the encrypted files.
+
+(This is a harmless sample file created for testing the detector.)
